@@ -9,6 +9,7 @@ public class Messages
 	public static void main(String[] args)
 	{
 		System.out.println("Hello, world!");
+		System.out.println("Hello, again! This statement is for second commit.");
 	}
 
 }
