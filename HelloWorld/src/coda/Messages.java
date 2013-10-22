@@ -10,6 +10,7 @@ public class Messages
 	{
 		System.out.println("Hello, world!");
 		System.out.println("Hello, again! This statement is for second commit.");
+		System.out.println("Third statement for third commit.");
 	}
 
 }
